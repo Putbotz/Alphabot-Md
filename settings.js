@@ -19,8 +19,8 @@ global.available = false //status online (online)
 
 // Other
 global.botname = "Ifee By Putbotz" //namabot kalian
-global.ownername= "Put" //nama kalian
-global.myweb ="https://www.instagram.com/invites/contact/?i=17qrap3shyd2y&utm_content=3xsa1gu" //bebas asal jan hapus
+global.ownername= "Ifeebotz" //nama kalian
+global.myweb ="https://chat.whatsapp.com/BzPu8WdbPqh4r3Hovb45Kx" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCA_wQ8H5liNX9slHvAMg-BA" //bebas asal jan hapus
 global.github = "https://github.com/Putbotz" //bebas
 global.email = "puttxd@gmail.com" //bebas
